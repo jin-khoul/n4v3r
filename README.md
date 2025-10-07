@@ -12,7 +12,9 @@
 
 - Finally, and most importantly, download the ZIP file, extract it, and install the requirements using:
 - 最后，也是最重要的，下载 ZIP 文件，解压，并使用以下命令安装所需依赖：
+```
 pip install -r requirements.txt
+```
 
 ### TO USE THE SCRIPT:
 
